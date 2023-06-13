@@ -5,9 +5,9 @@
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
-<a href="https://whatweather.today/">
+<h1><a href="https://whatweather.today/">
      <h1 align="center">Weather Today</h1>
-    </a>
+    </a></h1>
 <div align="center">
   <h3>
     <a href="https://papaya-gaufre-0fb8ec.netlify.app/">
