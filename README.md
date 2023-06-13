@@ -1,13 +1,13 @@
 <!-- Please update value in the {}  -->
 
-<a href="https://whatweather.today/">
-     <h1 align="center">Weather Today</h1>
-    </a>
+
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
-
+<a href="https://whatweather.today/">
+     <h1 align="center">Weather Today</h1>
+    </a>
 <div align="center">
   <h3>
     <a href="https://papaya-gaufre-0fb8ec.netlify.app/">
