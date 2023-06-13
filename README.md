@@ -1,6 +1,8 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Simple Weather Forecast</h1>
+<a href="https://whatweather.today/">
+     <h1 align="center">Weather Today</h1>
+    </a>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
